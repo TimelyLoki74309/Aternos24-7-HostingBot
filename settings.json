@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "TimeleyLoki74309.aternos.me",
+    "port": 62879,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Im a fan of JUMBLER",
+        "Subscribe to JUMBLER",
+        "I like to play minecrfat"
       ]
     },
     "chat-log": true,
